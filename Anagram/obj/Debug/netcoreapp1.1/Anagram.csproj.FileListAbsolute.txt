@@ -1,0 +1,7 @@
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\bin\Debug\netcoreapp1.1\Anagram.deps.json
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\bin\Debug\netcoreapp1.1\Anagram.pdb
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\obj\Debug\netcoreapp1.1\Anagram.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\obj\Debug\netcoreapp1.1\Anagram.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\obj\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram\obj\Debug\netcoreapp1.1\Anagram.pdb

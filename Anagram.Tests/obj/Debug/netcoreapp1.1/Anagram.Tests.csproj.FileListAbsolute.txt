@@ -1,0 +1,15 @@
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.deps.json
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.runtimeconfig.json
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.runtimeconfig.dev.json
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.csprojResolveAssemblyReference.cache
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.csproj.CoreCompileInputs.cache
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.AssemblyInfo.cs
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.Tests.pdb
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\bin\Debug\netcoreapp1.1\Anagram.pdb
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.dll
+C:\Users\thepo\onedrive\desktop\projects\Anagram.Solution\Anagram.Tests\obj\Debug\netcoreapp1.1\Anagram.Tests.pdb
